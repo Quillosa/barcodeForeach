@@ -37,7 +37,7 @@ namespace barCodeFINALSTP
                 if (textBox3.Text.Equals(lop.ToString()))
                 {
                     label1.Text = product[code.IndexOf(lop.ToString())].ToString();
-                    dagis na matigas na humimlay
+                    
                 }
             }
             
